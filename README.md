@@ -1,7 +1,5 @@
 # Hi there, I'm Richard! 👋
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bassonrichard&show_icons=true&theme=radical)
-
 Welcome to my GitHub page! I'm a passionate Software Developer from South Africa 🇿🇦 specializing in .NET technologies and cloud solutions. My focus is on building sustainable, scalable software and promoting best practices in DevOps and cloud architecture. ⛈️
 
 ## 🛠 Skills
@@ -9,6 +7,8 @@ Welcome to my GitHub page! I'm a passionate Software Developer from South Africa
 - **Cloud Services:** Azure, AWS
 - **Containers and Orchestration:** Docker, Kubernetes
 - **DevOps:** GitHub Actions, Azure DevOps, Terraform
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassonrichard&layout=compact)
 
 ## ✍️ Topics I've written about and have an interest in 
 - **Sustainable Software Engineering** for a greener digital world
